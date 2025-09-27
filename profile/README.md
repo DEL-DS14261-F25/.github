@@ -1,5 +1,8 @@
 ## Welcome to the Data Engineering Lab  👋
 
+Lab: **DS14261**
+Semester: **Fall 2025**
+
 Have a safe and enjoyable ride!
 
 <!--
