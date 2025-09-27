@@ -1,6 +1,6 @@
 ## Welcome to the Data Engineering Lab  👋
 
-Have a safe and ejoyable ride!
+Have a safe and enjoyable ride!
 
 <!--
 
